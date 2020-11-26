@@ -33,3 +33,12 @@ module.exports = {
     },
   ],
 };
+
+import { withPrefix } from 'gatsby'
+
+render() {
+  // Note: this is an escape hatch and should be used sparingly!
+  // Normally we recommend using `import` for getting asset URLs
+  // as described in “Adding Images and Fonts” above this section.
+  return <img src={withPrefix('/img/logo.png')} alt="Logo" />;
+}
