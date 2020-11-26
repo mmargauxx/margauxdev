@@ -4,7 +4,7 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'margaux.dev', // e.g: 'Name | Developer'
   lang: 'nl', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  description: 'creative developer', // e.g: Welcome to my website
 };
 
 // HERO DATA
