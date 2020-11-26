@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'Wordpress Website met Google Analytics',
     info2: 'Madame Moustache is een kapster aan huis. Ze maakt het haar klanten graag gemakkelijk en vroeg dus om een afspraaktool te integreren in de website, met e-mail meldingen voor zowel klant als kapster. Via Google Analytics is het mogelijk om de bezoekers van de website te leren kennen.',
     url: 'https://madamemoustachebarber.be/',
-    repo: '', // if no repo, the button will not show up
+    repo: 'cv.pdf', // if no repo, the button will not show up
   },
 ];
 
