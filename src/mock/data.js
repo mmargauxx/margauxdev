@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Hi! Mijn naam is Margaux Laurier en ik omschrijf mezelf het liefst als een Creative Developer.',
   paragraphTwo: 'Momenteel studeer ik Grafische en Digitale Media aan de AP Hogeschool, maar ik wist al snel dat mijn grootste interesse bij het coderen lag. Ik koos daarom ook dit jaar voor het keuzevak Advanced Front-end Coding en zette zo mijn eerste stappen in de React wereld. In de toekomst wil ik me graag toespitsen op custom built React Native websites en uitdagende projecten.',
   paragraphThree: 'En ja, wat kan ik voor u betekenen? Heel veel als het van uw wensen afhangt! Ik bouw websites die er goed uitzien, goed werken én goed scoren in Google door rekening te houden met de nieuwste technologieën.',
-  resume: 'cv.pdf', // if no resume, the button will not show up
+  resume: 'cv.jpg', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
