@@ -33,7 +33,7 @@ module.exports = {
     },
   ],
 };
-
+/*
 module.exports = {
   // Note: it must *not* have a trailing slash.
   pathPrefix: `/files`,
@@ -46,4 +46,4 @@ render() {
   // Normally we recommend using `import` for getting asset URLs
   // as described in “Adding Images and Fonts” above this section.
   return <img src={withPrefix('/img/logo.png')} alt="CV" />;
-}
+}*/
