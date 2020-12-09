@@ -35,6 +35,15 @@ export const projectsData = [
     url: 'https://madamemoustachebarber.be/',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'vuecan.png',
+    title: 'VUECAN',
+    info: 'Slimme YouTube player met Vue.js',
+    info2: 'Voor het project IP5 werkte ik met drie ',
+    url: 'https://vuecan.be/',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
