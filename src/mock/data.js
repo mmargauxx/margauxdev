@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'vuecan.png',
     title: 'VUECAN',
     info: 'Slimme YouTube player met Vue.js',
-    info2: 'Voor het project IP5 werkte ik met drie ',
+    info2: 'Voor het project IP5 werkte ik met drie andere groepsleden samen. In één week tijd zorgden we voor het design en werkende code. Met de webapp is het mogelijk om YouTube muziek te zoeken en toe te voegen aan een wachtrij.',
     url: 'https://vuecan.be/',
     repo: '', // if no repo, the button will not show up
   },
