@@ -44,6 +44,15 @@ export const projectsData = [
     url: 'https://vuecan.be/',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'innovest.png',
+    title: 'Innovest',
+    info: 'Logo design voor investment company',
+    info2: "I designed this logo for a new company, which specializes in investments and trade. The client wanted a classy logo, hence the serif font, with a trendy undertone, hence the sans-serif subtitle. The logo is reminiscent of all the connections the client has made over the years.",
+    url: '',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
